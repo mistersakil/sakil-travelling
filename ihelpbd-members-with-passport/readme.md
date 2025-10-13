@@ -2,9 +2,6 @@
 
 ## Dev Team
 
-| Member Name | Passport |
-|--------------|-----------|
-| Sakil | <span style="color:green">Yes</span> |
-| Abdul Alim | <span style="color:red">Yes</span> |
-| Jacky | <span style="color:green">No</span> |
-
+- **Sakil** — ✅ Yes  
+- **Abdul Alim** — ❌ No  
+- **Jacky** — ✅ Yes
