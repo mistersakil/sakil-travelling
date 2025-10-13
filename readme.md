@@ -20,9 +20,9 @@
 
 `ভাড়া:` অটো ভাড়া খুব একটা বেশি না যেমন ধরুন হোটেল থেকে বিচ/শহরে  এ যেতে ৩০-৬০ টাকা রিকশা ভাড়া, ১০০-১২০ টাকা অটো ভাড়া।
 
-> We had a wonderful and memorable office tour from Dhaka to Cox’s Bazar (October 9–12, 2025) organized by ==[iHelpBD](https://ihelpbd.com)==. It was a perfect blend of relaxation and team bonding for all members and their families.
+> We had a wonderful and memorable yearly office tour from **Dhaka to Cox’s Bazar (October 9–12, 2025)** organized by [**iHelpBD**](https://ihelpbd.com). It was a perfect blend of relaxation and team bonding for all members and their families.  
 >
-> A heartfelt thanks to our respected ==Boss Mr. Kiron== for his thoughtful planning, leadership, and generosity in making this tour such a joyful experience for everyone. We truly appreciate your effort and care — it made the trip unforgettable!
+> A heartfelt thanks to our respected **Boss Mr. Kiron** for his thoughtful planning, leadership, and generosity in making this tour such a joyful experience for everyone. We truly appreciate your effort and care — it made the trip unforgettable!
 
 ## চাঁদপুর সদর - ৩০ সেপ্টেম্বর থেকে ১ অক্টোবর ২০২৫
 
