@@ -1,5 +1,11 @@
 <h1 align="center">Members with Passport - iHelpBD</h1>
 
+## Counting
+
+- **Total members** — 38
+- **With passport** — 15
+- **Without passport** — 23
+
 ## CTO
 
 - **Kiron vai** — ✅
@@ -34,12 +40,12 @@
 
 ## Business Team
 
+- **Audri** — ✅
 - **Ashraf vai** — ❌
 - **Tamim** — ❌
 - **Aziz vai** — ❌
 - **Saqlain vai** — ❌
 - **Sarwar mahbub** — ❌
-- **Audri** — ✅
 - **Habib vai** — ❌
 - **Nafisa** — ❌
 - **Tamanna** — ❌
