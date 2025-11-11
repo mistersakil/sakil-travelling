@@ -19,6 +19,7 @@
 - **AR raiyan** — ✅
 - **Hemayet riyad** — ✅
 - **Sakil** — ✅  
+- **Pranto** — Pro...
 - **Amir hamza** — ❌
 - **Asad sheikh** — ❌
 - **Jacky** — ❌
@@ -26,7 +27,7 @@
 - **Jannatun naim** — ❌
 - **Mamun hossen** — ❌
 - **Shihab** — ❌
-- **Pranto** — ...
+
 
 ## System Team
 
@@ -43,9 +44,9 @@
 - **Audri** — ✅
 - **Ashraf vai** — ✅
 - **Tamim** — ✅
+- **Sarwar mahbub** — ✅
 - **Aziz vai** — ❌
 - **Saqlain vai** — ❌
-- **Sarwar mahbub** — ✅
 - **Habib vai** — ❌
 - **Nafisa** — ❌
 - **Tamanna** — ❌
