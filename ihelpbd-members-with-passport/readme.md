@@ -26,7 +26,7 @@
 - **Jannatun naim** — ❌
 - **Mamun hossen** — ❌
 - **Shihab** — ❌
-- **Pranto** — ❌
+- **Pranto** — ...
 
 ## System Team
 
@@ -41,11 +41,11 @@
 ## Business Team
 
 - **Audri** — ✅
-- **Ashraf vai** — ❌
-- **Tamim** — ❌
+- **Ashraf vai** — ✅
+- **Tamim** — ✅
 - **Aziz vai** — ❌
 - **Saqlain vai** — ❌
-- **Sarwar mahbub** — ❌
+- **Sarwar mahbub** — ✅
 - **Habib vai** — ❌
 - **Nafisa** — ❌
 - **Tamanna** — ❌
