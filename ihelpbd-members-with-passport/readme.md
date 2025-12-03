@@ -19,7 +19,7 @@
 - **AR raiyan** — ✅
 - **Hemayet riyad** — ✅
 - **Sakil** — ✅  
-- **Pranto** — Pro...
+- **Pranto** — ✅
 - **Amir hamza** — ❌
 - **Asad sheikh** — ❌
 - **Jacky** — ❌
