@@ -45,6 +45,7 @@
 - **Ashraf vai** — ✅
 - **Tamim** — ✅
 - **Sarwar mahbub** — ✅
+- **Mamunur rashid** — ✅
 - **Aziz vai** — ❌
 - **Saqlain vai** — ❌
 - **Habib vai** — ❌
