@@ -2,13 +2,14 @@
 
 ## Counting
 
-- **Total members** — 38
-- **With passport** — 15
-- **Without passport** — 23
+- **Total members** — 40
+- **With passport** — 22
+- **Without passport** — 18
 
-## CTO
+## Management
 
 - **Kiron vai** — ✅
+- **Wazi vai** — ✅
 
 ## Dev Team
 
@@ -17,7 +18,7 @@
 - **Mahbubur** — ✅ (Need renew)
 - **SK naim** — ✅
 - **AR raiyan** — ✅
-- **Hemayet riyad** — ✅
+- **Talha** — ✅
 - **Sakil** — ✅  
 - **Pranto** — ✅
 - **Amir hamza** — ❌
@@ -27,6 +28,7 @@
 - **Jannatun naim** — ❌
 - **Mamun hossen** — ❌
 - **Shihab** — ❌
+- **Mehedi hasan emon** — ❌
 
 
 ## System Team
@@ -56,6 +58,6 @@
 
 - **Helal vai** — ✅
 - **Saurav dada** — ✅
-- **Sohel vai** — ❌
+- **Sohel vai** — ✅
 - **Shajib vai** — ❌
 - **Kamrul vai** — ❌
